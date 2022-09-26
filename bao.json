@@ -2,7 +2,7 @@
 
 
 {
-"spider":"https://raw.fastgit.org/bao523/bao/main/jar/bao.jar;md5;8ebab0d132aebfcfc783268437cf3b7c",
+"spider":"https://raw.fastgit.org/bao523/bao/main/jar/bao.jar;md5;0e705bb970b09245b190d01f3a5ee792",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvYmFvNTIzL2Jhby9tYWluL2xpdmUudHh0"]}]}],
 
@@ -24,7 +24,7 @@
 {"key": "csp_XYQHiker_TVB云播","name":"TVB云播(XYQ)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/bao523/bao/main/json/TVB云播.json","jar":"https://raw.fastgit.org/bao523/bao/main/jar/XYQPlugin.jar;md5;e20ef64626337ddbb65e47273c3be588"},
 {"key": "csp_XYQBiu_饭团","name":"饭团（XYQ）","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/bao523/bao/main/json/饭团.json","jar":"https://raw.fastgit.org/bao523/bao/main/jar/XYQPlugin.jar;md5;e20ef64626337ddbb65e47273c3be588"},
 
-//{"key": "293视频","name": "🎟293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": ""},
+{"key": "293视频","name": "🎟293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": ""},
 {"key": "555","name": "📌555影视","type": 3,"api": "csp_Dy555","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "剧荒TV","name": "🎭剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Alist2","name":"Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/Mike906/jar/raw/branch/main/Alist.json","jar":"http://www.rtwl.ltd/down.php/2f19c527b9a335fb1415c5f9686515c8.jar"}, 
