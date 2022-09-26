@@ -25,6 +25,7 @@
 {"key": "csp_XYQBiu_饭团","name":"饭团（XYQ）","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/bao523/bao/main/json/饭团.json","jar":"https://raw.fastgit.org/bao523/bao/main/jar/XYQPlugin.jar;md5;e20ef64626337ddbb65e47273c3be588"},
 
 {"key": "293视频","name": "🎟293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": ""},
+{"key":"csp_AppTT","name":"🖼图图影视","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key": "555","name": "📌555影视","type": 3,"api": "csp_Dy555","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "剧荒TV","name": "🎭剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Alist2","name":"Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/Mike906/jar/raw/branch/main/Alist.json","jar":"http://www.rtwl.ltd/down.php/2f19c527b9a335fb1415c5f9686515c8.jar"}, 
