@@ -4,7 +4,7 @@
 {
 "spider":"https://raw.fastgit.org/bao523/bao/main/jar/bao.jar;md5;fba3e121a785d0f9241ba30fad859b59",
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvYmFvNTIzL2Jhby9tYWluL2xpdmUudHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9iYW81MjMuZ2l0aHViLmlvL2Jhby9saXZlLnR4dA=="]}]}],
 
 
 "sites":[
