@@ -2,7 +2,7 @@
 
 
 {
-"spider":"https://bao523.github.io/bao/jar/bao.jar;md5;48eab2e7e074f1e27b18339255f8c42b",
+"spider":"https://bao523.github.io/bao/jar/bao.jar;md5;8de557bd46d2ade09506a7e0ef2354e7",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9iYW81MjMuZ2l0aHViLmlvL2Jhby9saXZlLnR4dA=="]}]}],
 
