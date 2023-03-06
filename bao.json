@@ -1,8 +1,13 @@
 {
 "spider":"https://bao523.github.io/bao/jar/bao.jar;md5;f3687d6e511a73caf72f4757a04518b2",
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9iYW81MjMuZ2l0aHViLmlvL2Jhby9saXZlLnR4dA=="]}]}],
-
+//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9iYW81MjMuZ2l0aHViLmlvL2Jhby9saXZlLnR4dA=="]}]}],
+"lives": [{
+		    "name": "live",
+		    "type": 0,
+		    "url": "https://bao523.github.io/bao/live.txt",
+		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+	    }],
 
 "sites":[
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/七七.js","searchable": 1,"quickSearch": 1,"filterable": 1},
