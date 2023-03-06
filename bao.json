@@ -1,8 +1,8 @@
 {
 "spider":"https://bao523.github.io/bao/jar/bao.jar;md5;f3687d6e511a73caf72f4757a04518b2",
 
-//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9iYW81MjMuZ2l0aHViLmlvL2Jhby9saXZlLnR4dA=="]}]}],
-"lives": [{
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9iYW81MjMuZ2l0aHViLmlvL2Jhby9saXZlLnR4dA=="]}]}],
+//"lives": [{
 		    "name": "live",
 		    "type": 0,
 		    "url": "https://bao523.github.io/bao/live.txt",
