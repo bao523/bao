@@ -6,8 +6,8 @@
 		    "name": "live",
 		    "type": 0,
 		    "url": "https://bao523.github.io/bao/live.txt",
-		    "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-	            "logo":"https://epg.112114.xyz/logo/{name}.png"
+		     "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
 
 "sites":[
