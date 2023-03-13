@@ -92,17 +92,7 @@
 		"name": "Web聚合",
 		"type": 3,
 		"url": "Web"
-	}, 
-	 {
-		"name": "可乐秒",
-		"type": 1,
-		"url": "http://jx.pandown.pro/home/api?type=ys&uid=2691632&key=bchmpqsDJMSTWX0568&url=",
-		"ext": {
-			"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]
-		}  
-	}, 
- {"name":"一格刚爪","type":0,"url":"https://jx1.idcdr.com/111/555/?url="},  
-	   {
+	}, {
 		"name": "喵喵喵",
 		"type": 1,
 		"url": "https://vip.blbo.cc:2222/api/?key=9f230d947680de53b544be747efa8e54&url=",
