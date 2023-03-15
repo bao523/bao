@@ -298,7 +298,7 @@ ABC_News,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/
 
 
 卫视,#genre#
-浙江卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240134_1/playlist.m3u8?CONTENTID=00000110240134_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+浙江卫视,http://111.40.196.25/PLTV/88888888/224/3221225510/index.m3u8
 安徽卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240256_1/playlist.m3u8?CONTENTID=00000110240256_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 北京卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240129_1/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 东方卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240242_1/playlist.m3u8?CONTENTID=00000110240242_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -729,7 +729,7 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8 
 
 浙江,#genre#
-浙江卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240134_1/playlist.m3u8?CONTENTID=00000110240134_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+浙江卫视,http://111.40.196.25/PLTV/88888888/224/3221225510/index.m3u8
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
 浙江钱江都市,http://yd-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/720p.m3u8?zzhed
