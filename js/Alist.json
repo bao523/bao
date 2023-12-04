@@ -1,0 +1,32 @@
+{
+  "drives": [
+    {
+      "name": "小丫",
+      "server": "http://alist.xiaoya.pro"
+    },
+    {
+      "name": "动漫盘",
+      "server": "http://pan.smjc.cc/自用Open/动画片/"
+    },
+    {
+      "name": "触光",
+      "server": "https://pan.ichuguang.com"
+    },
+    {
+      "name": "星梦",
+      "server": "https://pan.bashroot.top"
+    },
+    {
+      "name": "一只鱼",
+      "server": "https://alist.youte.ml"
+    },
+    {
+      "name": "七米蓝",
+      "server": "https://al.chirmyram.com"
+    },
+    {
+      "name": "神族九帝",
+      "server": "https://alist.shenzjd.com"
+    }
+  ]
+}
