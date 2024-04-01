@@ -5,7 +5,7 @@
 "sites":[
 
 {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"直播","name": "📡直播转换多仓版","type": 3,"api": "https://jihulab.com/bao1/bao/-/raw/main/js/直播转点播.js","ext": "https://jihulab.com/bao1/bao/-/raw/main/js/直播仓库.json&&&http://ftyyy.tk/json/zszb.jpeg"},
+{"key":"直播","name": "📡直播转换多仓版","type": 3,"api": "https://raw.githubusercontent.com/bao523/bao/main/js/直播转点播.js","ext": "https://raw.githubusercontent.com/bao523/bao/main/js/直播仓库.json&&&http://ftyyy.tk/json/zszb.jpeg"},
 {"key": "bp","name": "❄️️白嫖┃影视","type": 3,"searchable": 1,"changeable": 1,"jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar","api": "csp_XBPQ","ext": {"主页url": "https://www.baipiaoys.com:9092/","副标题": "pic-text text-right\">&&</b>","搜索模式": "1","搜索url": "https://www.baipiaoys.com/search.html?wd={wd}","图片": "data-original=\"&&\"","嗅探词": ".mp4#m3u8#.m3u8","线路标题": "白嫖","线路数组": "白嫖","分类": "电影$1#电视剧$2#动漫$3","分类url": "https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter{letter}/year/{year}.html"}},
 
 
