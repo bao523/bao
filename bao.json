@@ -8,7 +8,35 @@
 {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"直播","name": "📡直播转换多仓版","type": 3,"api": "https://bao523.github.io/bao/js/直播转点播.js","ext": "https://bao523.github.io/bao/js/直播仓库.json&&&http://ftyyy.tk/json/zszb.jpeg"},
 {"key": "bp","name": "❄️️白嫖┃影视","type": 3,"searchable": 1,"changeable": 1,"jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar","api": "csp_XBPQ","ext": {"主页url": "https://www.baipiaoys.com:9092/","副标题": "pic-text text-right\">&&</b>","搜索模式": "1","搜索url": "https://www.baipiaoys.com/search.html?wd={wd}","图片": "data-original=\"&&\"","嗅探词": ".mp4#m3u8#.m3u8","线路标题": "白嫖","线路数组": "白嫖","分类": "电影$1#电视剧$2#动漫$3","分类url": "https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter{letter}/year/{year}.html"}},
-
+{"key": "豪华资源",  "name": "👉春盈┃豪华", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "quickSearch": 1,
+ "categories": [
+        "内地剧",
+        "香港剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "马泰剧",
+        "台湾剧",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫",
+        "剧情片",
+        "战争片",
+        "动作片",
+        "科幻片",
+        "记录片",
+        "爱情片",
+        "喜剧片",
+        "灾难片",
+        "悬疑片",
+        "犯罪片",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺"
+      ]
+    },
 
 
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.cz233.com/"},
