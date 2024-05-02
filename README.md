@@ -33,7 +33,7 @@ TVBox各路大佬配置（排名不分先后）：
 
 （15）云星日记：https://maoyingshi.cc/tvbox/云星日记/1.m3u8
 
-（16）Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+（16）Yoursmile7：https://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/XC.json
 
 （17）Ray：https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/0.json
 
