@@ -7,7 +7,7 @@
 {"key":"csp_DouDou","name":"🔍豆瓣┃本接口免费-🈲贩卖","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"直播","name": "📡直播转换多仓版","type": 3,"api": "https://bao523.github.io/bao/js/直播转点播.js","ext": "https://bao523.github.io/bao/js/直播仓库.json&&&http://ftyyy.tk/json/zszb.jpeg"},
-  {
+ {
             "key": "热播库",
             "name": "👉春盈┃热播",
             "type": 3,
@@ -178,6 +178,7 @@
 {"key":"芒", "name":"👉春盈┃芒芒", "type":3, "api":"http://a.nxog.top/m/js/nxog.js", "jar": "http://www.wya6.cn/tz/wyog.php", "ext":"http://a.nxog.top/m/js/mm.js" },
 { "key": "drpy_js_优酷", "name": "👉春盈┃优酷", "type": 3, "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js", "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js" },
 { "key":"爱", "name":"👉春盈┃爱爱", "type":3, "api":"http://a.nxog.top/m/js/nxog.js", "jar": "http://www.wya6.cn/tz/wyog.php", "ext":"http://a.nxog.top/m/js/aa.js" },
+
 	
 
 {"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy.top"},
