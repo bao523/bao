@@ -517,55 +517,7 @@
       "ext": "https://www.zxzjhd.com/",
       "jar":"https://gitee.com/hssdy/mmys/raw/master/jar/changzhangbite.jar"
     },
-    {
-      "key": "多多网盘",
-      "name": "阿里┃多多",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "https://gitee.com/hssdy/mmys/raw/master/jar/duoduobiaoge.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://tv.yydsys.top",
-        "danmu": true
-      },
-      "timeout": 25
-    },
-        {
-      "key": "表哥网盘",
-      "name": "阿里┃表哥",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "https://gitee.com/hssdy/mmys/raw/master/jar/duoduobiaoge.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://wobge.run.goorm.io/"
-      },
-      "timeout": 25
-    },
-    {
-      "key": "土豆网盘",
-      "name": "阿里┃土豆",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "https://gitee.com/hssdy/mmys/raw/master/jar/duoduobiaoge.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://tudou.lvdoui.top"
-      },
-      "timeout": 25
-    },
+   
     {
       "key": "韩圈",
       "name": "备用┃韩圈",
