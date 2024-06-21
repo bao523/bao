@@ -7,7 +7,64 @@
 {"key":"csp_DouDou","name":"🔍豆瓣┃本接口免费-🈲贩卖","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"直播","name": "📡直播转换多仓版","type": 3,"api": "https://bao523.github.io/bao/js/直播转点播.js","ext": "https://bao523.github.io/bao/js/直播仓库.json&&&http://ftyyy.tk/json/zszb.jpeg"},
+{
+      "key": "剧圈影视",
+      "name": "推荐┃剧圈",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/hssdy/mmys/raw/master/assets/juquanquan.json"
+    },
+    {
+      "key": "小苹果弹幕",
+      "name": "推荐┃苹果",
+      "type": 3,
+      "api": "csp_Xpg",
+      "jar": "https://gitee.com/hssdy/mmys/raw/master/jar/xpg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+   {
+      "key": "热播",
+      "name": "推荐┃热播",
+      "type": 3,
+      "api": "csp_AppTT",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8I/B5wQc4Qma+pU=",
+      "jar": "https://gitee.com/hssdy/mmys/raw/master/jar/fan0530.jar"
+    },
+    {
+      "key": "天天",
+      "name": "影院┃天天",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "ext": "http://op.ysdqjs.cn",
+      "jar": "https://gitee.com/hssdy/mmys/raw/master/jar/%E5%A4%A9%E5%A4%A9.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
+    },
+        {
+      "key": "剧圈影视",
+      "name": "推荐┃剧圈",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/hssdy/mmys/raw/master/assets/juquanquan.json"
+    },
 
+
+	
 {"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy.top"},
 {"key":"农民","name":"🥝农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
 {"key":"csp_TianTian","name":"🦉天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
