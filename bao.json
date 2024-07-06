@@ -1,6 +1,6 @@
 {
 "spider":"https://bao523.github.io/TVBox/Yoursmile.jar;md5;89A66357B06E259472D0FC687C52604E",
-"lives":[{"name":"live","type":0,"url":"https://bao523.github.io/bao/live2.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}"}],
+"lives":[{"name":"live","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}"}],
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 "sites":[
