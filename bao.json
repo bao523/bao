@@ -1,5 +1,5 @@
 {
-"spider":"https://bao523.github.io/TVBox/Yoursmile.jar;md5;0559B6AA34618E48F93C166F2D5E7479",
+"spider":"https://bao523.github.io/TVBox/Yoursmile.jar;md5;DE4B1FDB4DD8BCBF5218592043FC1A1E",
 "lives":[{"name":"live","type":0,"url":"https://wds.ecsxs.com/231729.css","playerType":1,"ua": "okhttp/3.15","playerType": 1,"epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"}],
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
