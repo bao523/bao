@@ -6,7 +6,8 @@
 "sites":[
 {"key":"csp_DouDou","name":"🔍豆瓣┃本接口免费-🈲贩卖","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"直播","name": "📡直播转换多仓版","type": 3,"api": "https://bao523.github.io/bao/js/直播转点播.js","ext": "https://bao523.github.io/bao/js/直播仓库.json&&&http://ftyyy.tk/json/zszb.jpeg"},
-    {
+ {"key": "火狐资源", "name": "火狐 | 影院", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫",  "战争片", "动作片", "科幻片", "纪录片", "爱情片", "喜剧片", "灾难片", "悬疑片",  "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]},
+	{
       "key": "小苹果弹幕",
       "name": "推荐┃苹果",
       "type": 3,
@@ -28,16 +29,7 @@
       "ext": "http://op.ysdqjs.cn",
       "jar": "https://gitee.com/hssdy/mmys/raw/master/jar/%E5%A4%A9%E5%A4%A9.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
     },
-        {
-      "key": "剧圈影视",
-      "name": "推荐┃剧圈",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/hssdy/mmys/raw/master/assets/juquanquan.json"
-    },
+       
 
 
 	
