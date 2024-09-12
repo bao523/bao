@@ -1,5 +1,5 @@
 {
-"spider":"https://bao523.github.io/TVBox/Yoursmile.jar;md5;06BF007C54496749125E4FBD2D730F1B",
+"spider":"https://bao523.github.io/TVBox/Yoursmile.jar;md5;C195487A036A9D5B48BCF834785950EE",
 "lives":[{"name":"live","type":0,"url":"https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/bao523/bao/raw/live.txt?ref=master","playerType":1,"ua": "okhttp/3.15","playerType": 1,"epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"}],
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
@@ -38,7 +38,6 @@
 {"key":"csp_TianTian","name":"🦉天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"兄弟","name":"💥兄弟","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"农民","name":"👩‍🌾农民","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"看客","name":"👲看客","type":3,"api":"csp_Kanke","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"爱看","name":"❤️爱看","type":3,"api":"csp_Ikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -46,8 +45,8 @@
 {"key":"csp_AppRZ","name":"🕵忍者","type":3,"playerType":"2","api":"csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz/"},
 {"key":"FreeOK","name":"️🆗FreeOK","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SaoHuo","name":"🔥骚火","type":3,"api":"csp_SaoHuo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Qiyou","name":"🦌奇优","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SuBaiBai","name":"⛅️素白白","type":3,"api":"csp_SuBaiBai","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Qiyou","name":"🦌奇优","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tvyb","name":"☁️TVB云播","type":3,"api":"csp_Tvyb","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.tvyun01.com/"},
 {"key":"csp_Dyxs","name":"🎬电影先生","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_FengGo","name":"🐶疯狗","type":3,"api":"csp_FengGo","searchable":1,"quickSearch":1,"filterable":1},	
