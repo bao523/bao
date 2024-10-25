@@ -19,8 +19,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json",
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700"
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"
     },
     {
       "key": "Biliych",
@@ -34,17 +33,18 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json",
-      "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700"
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"
     },
-   {"key": "戏曲自定义",
-    "name": " 💖吾爱戏曲",
-    "type": 3,"api": "csp_Bili",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/aishang/aishangtv5/raw/xiqu.json?ref=master",
-    "spider":"https://cdn09022024.gitlink.org.cn/api/v1/repos/aishang/aishangtv5/raw/xiqu.jar?ref=master"
+  {
+      "key": "戏曲自定义",
+      "name": " 💖吾爱戏曲",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://120.24.204.74:1888/?explorer/share/file&hash=f4f88XQ8OQZ0umWtOGTgscP2zSOG6_cKh7evKhNyxJ3XvfcBgwcTG9NncdLih4wsdTY&name=/xiqu.json",
+      "spider": "http://120.24.204.74:1888/?explorer/share/file&hash=d4409UwJIO5QTaZixpvMtf7RXbysw-s1dVW1YdGARj32ahzJ6NZWX3i6oVE-at9AJO8&name=/xiqu.jar"
     },
   {
       "key": "可可",
