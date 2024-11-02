@@ -5,7 +5,7 @@
 
 "sites":[	
 {"key":"csp_Douban","name":"🔍豆瓣┃本接口免费-🈲贩卖","type":3,"api":"csp_Douban","searchable":0,"filterable":1,"changeable":1,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","filter":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/douban.json"}},
-{"key":"直播","name": "📡直播转换多仓版","type": 3,"api": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/bao523/bao/raw/js%2F%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js?ref=master","ext": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/bao523/bao/raw/js%2F%E7%9B%B4%E6%92%AD%E4%BB%93%E5%BA%93.json?ref=master&&&http://ftyyy.tk/json/zszb.jpeg"},
+{"key":"直播","name": "📡直播转换多仓版","type": 3,"api": "https://bao523.github.io/bao/js/直播转点播.js","ext": "https://bao523.github.io/bao/js/直播仓库.json&&&http://ftyyy.tk/json/zszb.jpeg"},
 {"key": "火狐资源", "name": "火狐 | 影院", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫",  "战争片", "动作片", "科幻片", "纪录片", "爱情片", "喜剧片", "灾难片", "悬疑片",  "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]},   
 {
       "key": "Bili",
