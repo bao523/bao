@@ -6,57 +6,15 @@
 "sites":[	
 {"key":"csp_Douban","name":"🔍豆瓣┃本接口免费-🈲贩卖","type":3,"api":"csp_Douban","searchable":0,"filterable":1,"changeable":1,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","filter":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/douban.json"}},
 {"key":"直播","name": "📡直播转换多仓版","type": 3,"api": "https://bao523.github.io/bao/js/直播转点播.js","ext": "https://bao523.github.io/bao/js/直播仓库.json&&&http://ftyyy.tk/json/zszb.jpeg"},
-{"key": "火狐资源", "name": "火狐 | 影院", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫",  "战争片", "动作片", "科幻片", "纪录片", "爱情片", "喜剧片", "灾难片", "悬疑片",  "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]},   
-{
-      "key": "Bili",
-      "name": "🅱哔哔┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"
-    },
-    {
-      "key": "Biliych",
-      "name": "🅱明星┃演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"
-    },
-  {
-      "key": "戏曲自定义",
-      "name": " 💖吾爱戏曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://120.24.204.74:1888/?explorer/share/file&hash=f4f88XQ8OQZ0umWtOGTgscP2zSOG6_cKh7evKhNyxJ3XvfcBgwcTG9NncdLih4wsdTY&name=/xiqu.json",
-      "spider": "http://120.24.204.74:1888/?explorer/share/file&hash=d4409UwJIO5QTaZixpvMtf7RXbysw-s1dVW1YdGARj32ahzJ6NZWX3i6oVE-at9AJO8&name=/xiqu.jar"
-    },
-  {
-      "key": "可可",
-      "name": "👻可可┃多线",
-      "type": 3,
-      "api": "csp_Kekys",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+{"key": "Aid","name": "🚑急救┃教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
+{"key": "可可","name": "👻可可┃多线","type": 3,"api": "csp_Kekys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./fty.jar;md5;6c4ab3a9d232164c75534f9060506ee5"},
+{"key": "南瓜","name": "🎃南瓜┃多线","type": 3,"api": "csp_NanGua","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./fty.jar;md5;6c4ab3a9d232164c75534f9060506ee5"},	
+{"key": "文采","name": "💮文采┃秒播","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./fty.jar;md5;6c4ab3a9d232164c75534f9060506ee5"},
+{"key": "木星","name": "🌞木星┃多线","type": 3,"api": "csp_AppSx","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM","jar": "./fty.jar;md5;6c4ab3a9d232164c75534f9060506ee5"},
+{"key": "热播","name": "📺热播┃多线","type": 3,"api": "csp_AppTT","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8I/B5wQc4Qma+pU=","jar": "./fty.jar;md5;6c4ab3a9d232164c75534f9060506ee5"},
+{"key": "萌米","name": "👀萌米┃多线","type": 3,"api": "csp_AppTT","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar": "./fty.jar;md5;6c4ab3a9d232164c75534f9060506ee5"},
+{"key": "速播","name": "⏮️速播┃多线","type": 3,"api": "csp_AppSx","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjDcUxPqpfNr0QF4QvEpcoxb5sQXd8GDXUTvbqvx0peQcuZ7GvQ0UGD/a2mS238cHqYkiBgwCduCiYrTZJtbwdDUt/L2w/LOWADxikKl6I8Cqz6OD9lIxS2anA6ytPprjXXepEhRI1g+FIGqkCgBFA=","jar": "./fty.jar;md5;6c4ab3a9d232164c75534f9060506ee5"},
+{"key": "欢视","name": "👓欢视┃多线","type": 3,"api": "csp_AppTT","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8IPB+BwH4Qma+opv","jar": "./fty.jar;md5;6c4ab3a9d232164c75534f9060506ee5"},
   
        
 
