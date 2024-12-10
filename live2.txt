@@ -13,7 +13,10 @@
 👉👉更换享受超清,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 
 🇨🇳中国港澳👉老歌,#genre#
-
+凤凰资讯台,http://183.234.238.18:8926/live1128.m3u8
+凤凰中文台,http://183.234.238.18:8927/live1129.m3u8
+凤凰资讯台,http://bzlzm.eu.org:8888/rtp/239.11.0.154:5140
+凤凰中文台,http://bzlzm.eu.org:8888/rtp/239.11.0.153:5140
 
 凤凰资讯代理,http://www.jxnklgb.cloudns.org/php/fhx.php?id=1 $凤凰秀代理I
 凤凰中文代理,http://www.jxnklgb.cloudns.org/php/fhx.php?id=2 $凤凰秀代理I
@@ -2244,7 +2247,189 @@ CHC家庭影院,https://epg.pw/stream/d6c6dcdce08fdda05114649d8ceaa9c9fbf5e05372
 埋堆堆18,http://cfss.cc/cdn/hy/23734169.flv 
 埋堆堆19,source:http://cfss.cc/cdn/hy/23728674.flv
 
-
+🍁收音广播👉全网,#genre#
+500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
+楚天音乐广播 FM105.8 (Opt-1)[0*0],http://ls.qingting.fm/live/1289.m3u8
+楚天交通广播 FM92.7[0*0],http://ls.qingting.fm/live/1291.m3u8
+荆门交通音乐频率 FM99.3 (Opt-2)[0*0],http://ls.qingting.fm/live/60808.m3u8
+襄阳交通广播 FM89.0 (Opt-1)[0*0],http://ls.qingting.fm/live/1307.m3u8
+襄阳交通广播 FM89.0 (Opt-2)[0*0],http://ls.qingting.fm/live/1308.m3u8
+襄阳音乐广播[0*0],http://ls.qingting.fm/live/5057.m3u8
+北京房山经典音乐 FM96.90*0][0*0],http://live.xmcdn.com/live/963/64.m3u8
+北京房山经典音乐 FM96.90*0][0*0],http://ls.qingting.fm/live/68746.m3u8
+北京房山经典音乐 FM96.90*0][0*0],http://ls.qingting.fm/live/68746.m3u8
+重庆新闻广播 FM96.80*0][0*0],http://live.xmcdn.com/live/128/64.m3u8
+重庆新闻广播 FM96.80*0][0*0],http://ls.qingting.fm/live/1498.m3u8
+重庆经济广播 FM101.50*0][0*0],http://ls.qingting.fm/live/1499.m3u8
+重庆经济广播 FM101.50*0][0*0],http://ls.qingting.fm/live/1499.m3u8
+重庆交通广播 FM95.50*0][0*0],http://live.xmcdn.com/live/130/64.m3u8
+重庆交通广播 FM95.50*0][0*0],http://ls.qingting.fm/live/1500.m3u8
+重庆交通广播 FM95.50*0][0*0],http://ls.qingting.fm/live/1500.m3u8
+重庆音乐广播 FM88.10*0][0*0],http://live.xmcdn.com/live/131/64.m3u8
+重庆音乐广播 FM88.10*0][0*0],http://ls.qingting.fm/live/647.m3u8
+重庆音乐广播 FM88.10*0][0*0],http://ls.qingting.fm/live/647.m3u8
+重庆都市广播 FM93.80*0][0*0],http://live.xmcdn.com/live/132/64.m3u8
+重庆都市广播 FM93.80*0][0*0],http://ls.qingting.fm/live/1502.m3u8
+重庆都市广播 FM93.80*0][0*0],http://ls.qingting.fm/live/1502.m3u8
+巴渝之声 FM104.50*0][0*0],http://ls.qingting.fm/live/3545693.m3u8
+万州交通广播0*0][0*0],http://live.xmcdn.com/live/1679/64.m3u8
+厦门音乐广播0*0][0*0],http://ls.qingting.fm/live/1739.m3u8
+厦门音乐广播0*0][0*0],http://ls.qingting.fm/live/1739.m3u8
+厦门新闻广播0*0][0*0],http://ls.qingting.fm/live/1737.m3u8
+厦门新闻广播0*0][0*0],http://ls.qingting.fm/live/1737.m3u8
+兰州新闻综合广播 FM97.30*0][0*0],http://ls.qingting.fm/live/1712.m3u8
+兰州新闻综合广播 FM97.30*0][0*0],http://ls.qingting.fm/live/1712.m3u8
+兰州交通音乐广播 FM99.50*0][0*0],http://ls.qingting.fm/live/1711.m3u8
+兰州生活文艺广播 FM100.80*0][0*0],http://ls.qingting.fm/live/1713.m3u8
+广州新闻电台 FM96.20*0][0*0],http://live.xmcdn.com/live/256/64.m3u8
+广州新闻电台 FM96.20*0][0*0],http://ls.qingting.fm/live/4848.m3u8
+广州新闻电台 FM96.20*0][0*0],http://ls.qingting.fm/live/4848.m3u8
+广州汽车音乐电台 FM102.70*0][0*0],http://live.xmcdn.com/live/257/64.m3u8
+广州汽车音乐电台 FM102.70*0][0*0],http://ls.qingting.fm/live/52710.m3u8
+广州汽车音乐电台 FM102.70*0][0*0],http://ls.qingting.fm/live/52710.m3u8
+广州交通电台 FM106.10*0][0*0],http://ls.qingting.fm/live/4955.m3u8
+广州 MYFM 88.0 (都市生活)0*0][0*0],http://ls.qingting.fm/live/52712.m3u8
+东广新闻台 FM90.9[0*0],http://ls.qingting.fm/live/275.m3u8
+东莞FM104音乐广播[0*0],http://ls.qingting.fm/live/93619.m3u8
+东莞畅享1075交通广播[0*0],http://ls.qingting.fm/live/1288.m3u8
+九江交通广播 FM88.4 FM88.9[0*0],http://ls.qingting.fm/live/2785094.m3u8
+云南交通广播 FM91.8[0*0],http://ls.qingting.fm/live/1928.m3u8
+云南教育广播 FM100[0*0],http://ls.qingting.fm/live/1930.m3u8
+云南新闻广播 FM105.8[0*0],http://ls.qingting.fm/live/1926.m3u8
+云南民族广播 SW7210[0*0],http://ls.qingting.fm/live/1933.m3u8
+云南经济广播 私家车 FM88.7[0*0],http://ls.qingting.fm/live/1927.m3u8
+云南音乐广播 FM97[0*0],http://ls.qingting.fm/live/1929.m3u8
+保定交通广播 FM104.8[0*0],http://ls.qingting.fm/live/28140.m3u8
+保定城市服务广播 乐动1016[0*0],http://ls.qingting.fm/live/62628.m3u8
+保定新闻广播 FM93.7[0*0],http://ls.qingting.fm/live/3701149.m3u8
+保定经典964汽车音乐广播[0*0],http://ls.qingting.fm/live/2227017.m3u8
+南宁交通音乐广播 FM107.4[0*0],http://ls.qingting.fm/live/80793.m3u8?aac
+南通交通广播 FM92.9[0*0],http://ls.qingting.fm/live/2216385.m3u8
+呼和浩特城市生活广播 FM90.1[0*0],http://ls.qingting.fm/live/2218717.m3u8
+呼和浩特文艺广播 FM99.8[0*0],http://ls.qingting.fm/live/3099076.m3u8
+呼和浩特新闻综合广播 FM92.9[0*0],http://ls.qingting.fm/live/2218711.m3u8
+咸阳城市之声 FM100.7[0*0],http://ls.qingting.fm/live/3559664.m3u8
+四川文艺广播 快乐900 FM90.0[0*0],http://ls.qingting.fm/live/4887.m3u8
+四川新闻综合广播 FM98.1[0*0],http://ls.qingting.fm/live/4906.m3u8
+四川民族广播 AM954[0*0],http://ls.qingting.fm/live/1115.m3u8
+四川私家车广播 FM92.5[0*0],http://ls.qingting.fm/live/4939.m3u8
+四川财富广播 FM94.0[0*0],http://ls.qingting.fm/live/4927.m3u8
+太原交通广播 FM107[0*0],http://ls.qingting.fm/live/4900.m3u8
+太原新闻广播 FM91.2[0*0],http://ls.qingting.fm/live/23873.m3u8
+太原私家车Radio FM104.4[0*0],http://ls.qingting.fm/live/4018.m3u8
+太原音乐广播 FM102.6[0*0],http://ls.qingting.fm/live/1185.m3u8
+宁夏交通广播 FM98.4[0*0],http://ls.qingting.fm/live/1840.m3u8
+宁夏都市广播 FM103.7[0*0],http://ls.qingting.fm/live/1842.m3u8
+山东体育广播 FM102.1[0*0],http://ls.qingting.fm/live/60266.m3u8
+山东女主播电台 FM97.5[0*0],http://ls.qingting.fm/live/60258.m3u8
+山东新闻广播 FM95[0*0],http://ls.qingting.fm/live/60180.m3u8
+山东生活广播 MyFM FM105[0*0],http://ls.qingting.fm/live/60260.m3u8
+山东音乐广播 FM99.1[0*0],http://ls.qingting.fm/live/1665.m3u8
+岳阳交通广播 FM106.1[0*0],http://ls.qingting.fm/live/88931.m3u8
+岳阳新闻综合广播[0*0],http://ls.qingting.fm/live/88933.m3u8
+常州交通广播 FM90[0*0],http://ls.qingting.fm/live/2796.m3u8
+广西女主播电台 FM97.0[0*0],http://ls.qingting.fm/live/1754.m3u8
+广西新闻910 FM91.0[0*0],http://ls.qingting.fm/live/1753.m3u8
+广西私家车930 FM93.0[0*0],http://ls.qingting.fm/live/1756.m3u8
+广西音乐台 FM95.0[0*0],http://ls.qingting.fm/live/4875.m3u8
+惠州新闻综合广播 FM100[0*0],http://ls.qingting.fm/live/5016.m3u8
+惠州环保交通广播 FM98.8[0*0],http://ls.qingting.fm/live/5017.m3u8
+惠州音乐广播 FM90.7[0*0],http://ls.qingting.fm/live/2212959.m3u8
+新疆交通广播 FM94.9 (Opt-2)[0*0],http://ls.qingting.fm/live/1910.m3u8
+新疆新闻广播 FM96.1 (Opt-1)[0*0],http://ls.qingting.fm/live/1902.m3u8
+新疆民生广播 FM92.4 (Opt-2)[0*0],http://ls.qingting.fm/live/76186.m3u8
+新疆维吾尔语交通文艺广播 (Opt-2)[0*0],http://ls.qingting.fm/live/78923.m3u8
+新疆蒙古语广播 (Opt-1)[0*0],http://ls.qingting.fm/live/1903.m3u8
+无锡新闻广播 FM93.7[0*0],http://ls.qingting.fm/live/2777.m3u8
+昆明汽车广播 FM95.4[0*0],http://ls.qingting.fm/live/1936.m3u8
+昆明资讯频率[0*0],http://ls.qingting.fm/live/1937.m3u8
+昆明都市调频 FM102.8[0*0],http://ls.qingting.fm/live/1935.m3u8
+昆明阳光广播[0*0],http://ls.qingting.fm/live/1934.m3u8
+梅州交通广播 FM105.8[0*0],http://ls.qingting.fm/live/24195.m3u8
+梅州新闻广播 FM94.8[0*0],http://ls.qingting.fm/live/24173.m3u8
+江苏新闻广播 FM93.7[0*0],http://ls.qingting.fm/live/4944.m3u8
+沈阳新闻广播 FM104.5[0*0],http://ls.qingting.fm/live/23891.m3u8
+河北 My FM 102.9[0*0],http://ls.qingting.fm/live/2508757.m3u8
+河北交通广播 FM99.2[0*0],http://ls.qingting.fm/live/1646.m3u8
+河北农民广播 AM558[0*0],http://ls.qingting.fm/live/1650.m3u8
+河北故事广播 FM107.9[0*0],http://ls.qingting.fm/live/1645.m3u8
+河北新闻广播 FM104.3[0*0],http://ls.qingting.fm/live/1644.m3u8
+河北旅游广播 AM603[0*0],http://ls.qingting.fm/live/1651.m3u8
+河北生活广播 FM88.8[0*0],http://ls.qingting.fm/live/4867.m3u8
+河北私家车广播 FM90.7[0*0],http://ls.qingting.fm/live/4868.m3u8
+河北音乐广播 FM102.4[0*0],http://ls.qingting.fm/live/1649.m3u8
+河南乐龄(信息广播) FM105.6[0*0],http://ls.qingting.fm/live/59896.m3u8
+河南交通广播 FM104.1[0*0],http://ls.qingting.fm/live/1209.m3u8
+河南娱乐广播 FM97.6[0*0],http://ls.qingting.fm/live/1719795.m3u8
+河南影院广播 MyRadio FM90.0[0*0],http://ls.qingting.fm/live/1206.m3u8
+河南音乐广播 魅力881 FM88.1[0*0],http://ls.qingting.fm/live/1208.m3u8
+河南驾车1066 FM106.6[0*0],http://ls.qingting.fm/live/1207.m3u8
+济南故事广播 FM104.3[0*0],http://ls.qingting.fm/live/1672.m3u8
+济南私家车广播 FM93.6[0*0],http://ls.qingting.fm/live/1670.m3u8
+济南经济广播 FM90.9[0*0],http://ls.qingting.fm/live/1668.m3u8
+济南音乐广播(MUSIC887)[0*0],http://ls.qingting.fm/live/1671.m3u8
+浙江之声 FM88 (Opt-1)[0*0],http://ls.qingting.fm/live/4518.m3u8
+浙江交通之声 FM93 (Opt-1)[0*0],http://ls.qingting.fm/live/4522.m3u8
+浙江动听(音乐调频) FM96.8 (Opt-2)[0*0],http://ls.qingting.fm/live/4866.m3u8
+浙江女主播电台 FM104.5 (Opt-2)[0*0],http://ls.qingting.fm/live/4524.m3u8
+浙江财富广播 FM95 (Opt-1)[0*0],http://ls.qingting.fm/live/4519.m3u8
+海南交通广播 FM100[0*0],http://ls.qingting.fm/live/4911.m3u8
+海南国际旅游之声 FM103.8[0*0],http://ls.qingting.fm/live/1862.m3u8
+海南新闻广播 FM88.6[0*0],http://ls.qingting.fm/live/1861.m3u8
+海南民生广播 FM101[0*0],http://ls.qingting.fm/live/1511803.m3u8
+深圳快乐1062(交通广播)[0*0],http://ls.qingting.fm/live/1272.m3u8
+深圳私家车广播 FM94.2[0*0],http://ls.qingting.fm/live/1273.m3u8
+深圳飞扬音乐971[0*0],http://ls.qingting.fm/live/1271.m3u8
+温州交通广播 FM103.9[0*0],http://ls.qingting.fm/live/23863.m3u8
+温州新闻广播 FM94.9[0*0],http://ls.qingting.fm/live/23861.m3u8
+温州私家车音乐广播 FM100.3[0*0],http://ls.qingting.fm/live/23865.m3u8
+温州经济生活广播 FM88.8[0*0],http://ls.qingting.fm/live/23867.m3u8
+温州绿色之声 FM93.8[0*0],http://ls.qingting.fm/live/1158.m3u8
+珠海电台交通音乐875[0*0],http://ls.qingting.fm/live/1275.m3u8
+西宁交通频率[0*0],http://ls.qingting.fm/live/3400408.m3u8
+西宁新闻频率[0*0],http://ls.qingting.fm/live/3400403.m3u8
+西安交通广播 FM104.3 (Opt-1)[0*0],http://ls.qingting.fm/live/1611.m3u8
+西安新闻广播 FM95.0 (Opt-1)[0*0],http://ls.qingting.fm/live/1610.m3u8
+西安音乐广播 FM93.1 (Opt-1)[0*0],http://ls.qingting.fm/live/1612.m3u8
+贵州新闻综合广播 FM94.6[0*0],http://ls.qingting.fm/live/23933.m3u8
+贵州电台交通广播 FM95.2[0*0],http://ls.qingting.fm/live/23927.m3u8
+贵州电台旅游广播 FM97.2[0*0],http://ls.qingting.fm/live/23929.m3u8
+贵州电台经济广播 FM98.9[0*0],http://ls.qingting.fm/live/23935.m3u8
+贵州电台音乐广播 FM91.6[0*0],http://ls.qingting.fm/live/23937.m3u8
+辽宁交通广播 FM97.5[0*0],http://ls.qingting.fm/live/23801.m3u8
+郑州新闻广播 FM98.6[0*0],http://ls.qingting.fm/live/1220.m3u8
+郑州汽车广播 FM91.2[0*0],http://ls.qingting.fm/live/1211.m3u8
+郑州活力944[0*0],http://ls.qingting.fm/live/4921.m3u8
+郑州车道931[0*0],http://ls.qingting.fm/live/1221.m3u8
+郴州综合广播 FM99.2[0*0],http://ls.qingting.fm/live/76765.m3u8
+郴州音乐交通广播 FM102.8[0*0],http://ls.qingting.fm/live/86747.m3u8
+金鹰955电台[0*0],http://ls.qingting.fm/live/4937.m3u8
+长春生活故事广播 FM90.0[0*0],http://ls.qingting.fm/live/5014.m3u8
+长沙城市之声 FM101.7[0*0],http://ls.qingting.fm/live/4237.m3u8
+长沙新闻广播 FM105.0[0*0],http://ls.qingting.fm/live/4877.m3u8
+长治交通文艺广播 FM94.9[0*0],http://ls.qingting.fm/live/2669405.m3u8
+长治新闻综合广播(幸福广播) FM94.3[0*0],http://ls.qingting.fm/live/2702863.m3u8
+阳信人民广播电台 FM103.4[0*0],http://ls.qingting.fm/live/2915753.m3u8
+阳泉交通广播[0*0],http://ls.qingting.fm/live/4592896.m3u8?aac
+阳泉新闻综合广播[0*0],http://ls.qingting.fm/live/5876899.m3u8?aac
+陕西交通广播 FM91.6[0*0],http://ls.qingting.fm/live/1601.m3u8
+陕西故事广播 AM603[0*0],http://ls.qingting.fm/live/1608.m3u8
+陕西秦腔广播 FM101.1[0*0],http://ls.qingting.fm/live/1604.m3u8
+陕西都市广播-陕广新闻 FM101.8[0*0],http://ls.qingting.fm/live/1609.m3u8
+陕西音乐广播 FM98.8[0*0],http://ls.qingting.fm/live/4873.m3u8
+青岛交通广播 FM89.7[0*0],http://ls.qingting.fm/live/1676.m3u8
+青岛故事广播 FM95.2[0*0],http://ls.qingting.fm/live/4956.m3u8
+青岛新闻广播 FM107.6[0*0],http://ls.qingting.fm/live/1673.m3u8
+青岛西海岸城市生活广播 FM92.6[0*0],http://ls.qingting.fm/live/33446.m3u8
+青海交通音乐广播 FM97.2[0*0],http://ls.qingting.fm/live/5009.m3u8
+青海生活广播 花儿调频 FM90.3[0*0],http://ls.qingting.fm/live/2163891.m3u8
+青海经济广播 FM07.5[0*0],http://ls.qingting.fm/live/5008.m3u8
+鹤壁交通音乐广播 FM93.5[0*0],http://ls.qingting.fm/live/3032681.m3u8
+龙广交通广播 FM99.8[0*0],http://ls.qingting.fm/live/4973.m3u8
+龙广新闻广播 FM94.6[0*0],http://ls.qingting.fm/live/4974.m3u8
+龙广新闻广播 FM94.6[0*0],http://ls.qingting.fm/live/4974.m3u8
+龙广音乐广播 FM95.8[0*0],http://ls.qingting.fm/live/4969.m3u8
+龙广音乐广播 FM95.8[0*0],http://ls.qingting.fm/live/4969.m3u8
 
 🚛景区直播👉全网,#genre#
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
