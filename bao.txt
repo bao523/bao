@@ -1181,7 +1181,7 @@
     {
       "name": "包包组播",
       "type": 0,
-      "url": "https://d.kstore.dev/download/3245/组播.txt",
+      "url": "https://raw.githubusercontent.com/bao523/bao/refs/heads/main/组播.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
