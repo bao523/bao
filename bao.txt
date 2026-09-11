@@ -1,5 +1,5 @@
 {
-  "spider": "https://d.kstore.dev/download/3245/Yoursmile.jar;md5;73ba903e7557f5457c71d43f04e0a03e",
+  "spider": "https://raw.githubusercontent.com/bao523/TVBox/refs/heads/main/Yoursmile.jar;md5;73ba903e7557f5457c71d43f04e0a03e",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
