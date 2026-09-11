@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.githubusercontent.com/bao523/TVBox/refs/heads/main/Yoursmile.jar;md5;73ba903e7557f5457c71d43f04e0a03e",
+  "spider": "https://raw.githubusercontent.com/bao523/TVBox/refs/heads/main/Yoursmile.jar;md5;346c1413a1eaa32d7044ba07733983c3",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
